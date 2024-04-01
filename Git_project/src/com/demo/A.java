@@ -7,5 +7,9 @@ public class A {
 		// TODO Auto-generated method stub
 			System.out.println("Hello parag");
 	}
+	public void m1()
+	{
+		System.out.println("m2 method")
+	}
 
 }
